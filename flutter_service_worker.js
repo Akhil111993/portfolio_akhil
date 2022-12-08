@@ -91,7 +91,7 @@ const RESOURCES = {
 ".git/refs/heads/master": "8085ae96b15d65262dc6d428562be9a2",
 ".git/refs/remotes/origin/master": "b969fbe42f70ae916c8e3bb394f8c629",
 "assets/AssetManifest.json": "d73ee05f8f671b8919c76f4643c9398a",
-"assets/assets/akhil.jpeg": "75245ed8007ae35801cb7e00a7461df2",
+"assets/assets/akhil.jpeg": "1d8ea692c25d6197a97d1231b4e7283e",
 "assets/assets/ashadhara.png": "3f795fcdd92289e81f1b9483c959c06b",
 "assets/assets/bmi.png": "de99c749250dbf7e3f80cf26ca971b3a",
 "assets/assets/dap.png": "807bc3f7f5278512f4e6713b491c5976",
@@ -121,9 +121,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "73721748ba3e87f8fd8de82e15c04ac3",
-"/": "73721748ba3e87f8fd8de82e15c04ac3",
-"main.dart.js": "f20c91dd398755769194192632d7942e",
+"index.html": "8b0104f3820d39e72b13ed182b62f494",
+"/": "8b0104f3820d39e72b13ed182b62f494",
+"main.dart.js": "36957a4aeca28c080880adaa67f18ebc",
 "manifest.json": "e74af8957b5899dc6da961caee768ec9",
 "version.json": "009c9e65172e010890f7f65fde438006"
 };
